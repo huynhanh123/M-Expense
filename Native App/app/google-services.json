@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "344651156709",
+    "project_id": "trip-record-44d47",
+    "storage_bucket": "trip-record-44d47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344651156709:android:b8bea0c927c0f58f75d80c",
+        "android_client_info": {
+          "package_name": "vn.edu.greenwich.dbsqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344651156709-1se3ga99a5hnng99tbuhejpc2cg5lelf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1lUtgNQ8cl4nmYkFpJmLB1dLzbvl0Xlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344651156709-1se3ga99a5hnng99tbuhejpc2cg5lelf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344651156709:android:0ecc7f8fd723b71575d80c",
+        "android_client_info": {
+          "package_name": "vn.edu.greenwich.triprecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344651156709-vh507bdr8bs6m49es8h6upja4devqq5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.greenwich.triprecord",
+            "certificate_hash": "399385165039accac02d5ed9335e4cb7d8d2a2ca"
+          }
+        },
+        {
+          "client_id": "344651156709-1se3ga99a5hnng99tbuhejpc2cg5lelf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1lUtgNQ8cl4nmYkFpJmLB1dLzbvl0Xlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344651156709-1se3ga99a5hnng99tbuhejpc2cg5lelf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

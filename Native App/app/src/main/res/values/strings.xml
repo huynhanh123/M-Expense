@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DB SQLite</string>
+    <string name="btnCreate">Create</string>
+    <string name="btnEdit">Edit</string>
+    <string name="btnConfirm">Confirm</string>
+    <string name="Name">Name</string>
+    <string name="Type">Type</string>
+    <string name="Destination">Destination</string>
+    <string name="Status">Status</string>
+    <string name="Date">Date</string>
+    <string name="Description">Description</string>
+    <string name="Risk">Risk</string>
+    <string name="noti_create_account_success">Account is created successfully.</string>
+    <string name="menu_drawer_open">Drawer Open</string>
+    <string name="menu_drawer_close">Drawer Close</string>
+    <string name="label_reset_database">Reset Database</string>
+    <string name="label_backup">Backup</string>
+    <string name="label_backup_firestore">Firestore Backup</string>
+    <string name="notification_backup_success">Backup successfully.</string>
+    <string name="notification_backup_fail">Not backup successfully.</string>
+    <string name="notification_reset_database_success">Reset database successfully.</string>
+    <string name="notification_delete_confirm">Are you sure to delete this?.</string>
+    <string name="error_empty_list">Empty list.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date">Date</string>
+    <string name="destination">Destination</string>
+    <string name="name_trip">Name Trip</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
